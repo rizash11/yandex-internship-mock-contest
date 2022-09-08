@@ -113,7 +113,7 @@ outer:
 			seatsAvailable = true
 		}
 
-		fmt.Println("Cannot fulfill passengers requirements.")
+		fmt.Println("Cannot fulfill passengers requirements")
 	}
 }
 
